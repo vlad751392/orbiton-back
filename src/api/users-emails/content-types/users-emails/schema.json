@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "orbiton_users_emails",
+  "info": {
+    "singularName": "users-emails",
+    "pluralName": "orbiton-users-emails",
+    "displayName": "Users_Emails"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Email": {
+      "type": "string"
+    }
+  }
+}
